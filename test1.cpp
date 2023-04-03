@@ -11,7 +11,9 @@ break ;
 }
 
 }
+
 if(k==69 )
+
 cout<<"Khong co doi xung";
 
 else cout<<"Doi xung vcl Dat ech";
