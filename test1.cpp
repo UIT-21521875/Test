@@ -13,7 +13,8 @@ break ;
 }
 if(k==1 )
 cout<<"Khong co doi xung";
-else cout<<"Doi Xung Roi";
+else cout<<"Co Doi xung";
+>>>>>>> 6bb66011d892643e8b171cccf0589f2392099d06
 }
 int main ()
 {
