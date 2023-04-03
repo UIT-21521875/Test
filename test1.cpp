@@ -13,7 +13,7 @@ break ;
 }
 if(k==1 )
 cout<<"Khong co doi xung";
-else cout<<"Doi xung";
+else cout<<"Da doi xung";
 }
 int main ()
 {
