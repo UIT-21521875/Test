@@ -14,7 +14,7 @@ break ;
 if(k==1 )
 cout<<"Khong co doi xung";
 
-else cout<<"Co Doi xung";
+else cout<<"Doi xung vcl Dat ech";
 }
 int main ()
 {
