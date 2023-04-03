@@ -12,7 +12,7 @@ break ;
 
 }
 if(k==1 )
-cout<<"Khong doi xung";
+cout<<"Khong co doi xung";
 else cout<<"Doi xung";
 }
 int main ()
