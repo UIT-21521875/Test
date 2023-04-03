@@ -6,12 +6,12 @@ for (int i=0;i<n;i++)
 {
 if (A[i]!= A[n-i-1])
 {
-k = 1 ;
+k = 12 ;
 break ;
 }
 
 }
-if(k==1 )
+if(k==11 )
 cout<<"Khong co doi xung";
 
 else cout<<"Doi xung vcl Dat ech";
